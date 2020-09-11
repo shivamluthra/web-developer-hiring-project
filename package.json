@@ -1,0 +1,25 @@
+{
+  "name": "web-developer-hiring-project",
+  "version": "1.0.0",
+  "description": "<!-- vscode-markdown-toc --> * 1. [Full-Stack Web Developer](#Full-StackWebDeveloper) \t* 1.1. [READ THIS BEFORE YOU BEGIN](#READTHISBEFOREYOUBEGIN) \t* 1.2. [Instructions](#Instructions) \t* 1.3. [Project Requirements](#ProjectRequirements) \t\t* 1.3.1. [Scenario](#Scenario) \t\t* 1.3.2. [Business Facts](#BusinessFacts) \t\t* 1.3.3. [Success Conditions](#SuccessConditions) \t* 1.4. [Guidelines](#Guidelines)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivamluthra/web-developer-hiring-project.git"
+  },
+  "author": "Shivam Luthra <sluthra145@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivamluthra/web-developer-hiring-project/issues"
+  },
+  "homepage": "https://github.com/shivamluthra/web-developer-hiring-project#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.4"
+  }
+}
